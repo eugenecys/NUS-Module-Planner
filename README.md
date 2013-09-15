@@ -6,13 +6,12 @@ A tool for all NUS students to record all the modules they have taken so far and
 
 These are the fields inside the file that are for you to fill up:
 
-Module Code
-Type
-Level xxxx MC
-Semester
-Grade
-S/U
-
+<b>Module Code<br>
+Type<br>
+Level xxxx MC<br>
+Semester<br>
+Grade<br>
+S/U</b>
 
 
 The table on the right is generated based on all the above data you have placed. 
