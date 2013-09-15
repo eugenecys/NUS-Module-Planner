@@ -13,6 +13,14 @@ Semester
 Grade
 S/U
 
+
+
+The table on the right is generated based on all the above data you have placed. 
+
+Have fun!
+
+
+
 Module Code
 ===========
 Enter the module code (Or name, up to you) in the field. Keep it short and sweet so its easy to view the statistics.
@@ -41,7 +49,3 @@ S/U
 ===
 Indicate Y if you want to S/U the module, and N if you don't want to. 
 
-
-The table on the right is generated based on all the above data you have placed. 
-
-Have fun!
